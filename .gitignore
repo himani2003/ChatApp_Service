@@ -1,5 +1,3 @@
-src/environment/jwt-private.key
-src/environment/db.ts
 .idea/
 .vscode/
 node_modules/
